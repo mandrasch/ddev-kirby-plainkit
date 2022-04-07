@@ -1,5 +1,5 @@
 
-# DDEV Kirby Starterkit
+# DDEV Kirby Plainkit
 
 [Kirby CMS](https://getkirby.com/) meets [DDEV](https://ddev.com/) & [Gitpod](https://gitpod.io/).
 
