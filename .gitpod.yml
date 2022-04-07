@@ -1,5 +1,6 @@
 # Enable DDEV via gitpod via drupalpod, see https://github.com/mandrasch/ddev-breeze-inertia-vue-starter/pull/1/commits
-image: drupalpod/drupalpod-gitpod-base:latest
+# https://hub.docker.com/r/drupalpod/drupalpod-gitpod-base
+image: drupalpod/drupalpod-gitpod-base
 
 # ddev and composer are running as part of the prebuild
 # when starting a Gitpod workspace all docker images are ready
