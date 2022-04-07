@@ -1,4 +1,4 @@
-name: ddev-kirby-plainkit
+name: kirby-plainkit
 type: php
 docroot: ""
 php_version: "8.0"

@@ -15,8 +15,6 @@ Clone to your local laptop and run:
 ddev start && ddev composer install && ddev launch
 ```
 
-If you wan't to open the backend, use `ddev launch /panel`.
-
 **About this starterkit**
 
 See https://github.com/getkirby/plainkit for more information.
@@ -44,6 +42,10 @@ ddev launch
 **Gitpod & DDEV**
 
 Gitpod DDEV integration was done with helpful tips by [@shaal](https://github.com/shaal). See `.gitpod.yml` and `.gitpod/`-folder.
+
+## Links
+
+- See https://github.com/mandrasch/ddev-kirby-starterkit as well
 
 ## License
 
