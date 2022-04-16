@@ -43,9 +43,10 @@ ddev launch
 
 Gitpod DDEV integration was done with helpful tips by [@shaal](https://github.com/shaal). See `.gitpod.yml` and `.gitpod/`-folder.
 
-## Links
+## Links / Other repos
 
-- See https://github.com/mandrasch/ddev-kirby-starterkit as well
+- https://github.com/mandrasch/ddev-kirby-starterkit
+- https://github.com/mandrasch/bahn-zum-see (example site)
 
 ## License
 
