@@ -43,6 +43,10 @@ ddev launch
 
 Gitpod DDEV integration was done with helpful tips by [@shaal](https://github.com/shaal). See `.gitpod.yml` and `.gitpod/`-folder.
 
+## TODOs
+
+- [ ] Add Laravel Mix support (and Bootstrap5? Or use different repo?) - See https://github.com/mandrasch/bahn-zum-see 
+
 ## Links / Other repos
 
 - https://github.com/mandrasch/ddev-kirby-starterkit
