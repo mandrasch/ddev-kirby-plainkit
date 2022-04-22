@@ -15,6 +15,10 @@ Clone to your local laptop and run:
 ddev start && ddev composer install && ddev launch
 ```
 
+**Use as template on GitHub**
+
+Just click "Use this template", rename your project in `.ddev/config.yaml` afterwards.
+
 **About this starterkit**
 
 See https://github.com/getkirby/plainkit for more information.
